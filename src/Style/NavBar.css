@@ -1,0 +1,15 @@
+.NavBar{
+    height: 50px;
+    widows: 100%;
+    background-color: black; 
+    
+}
+.name{
+    text-align: center;
+    color: beige;
+    font-size: 35px;
+    margin-top: 0;
+    padding-top: 0;
+    font-style: italic;
+    text-decoration: underline; 
+}

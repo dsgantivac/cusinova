@@ -1,0 +1,27 @@
+#container {
+    position: fixed;
+    border: 1px solid rgba(255, 153, 0, 0.856);
+    background-color:white;    
+    width: 200px;
+    bottom: 50%;
+    left: 0;
+    right: 0;
+    border-radius: 5%;
+    text-align: center;
+    margin-left: 15px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+h1{
+    color: orange;
+}
+
+h4{
+    margin: 0;
+    color: orangered
+}
+
+.text{
+    margin-left: 20px 
+}
